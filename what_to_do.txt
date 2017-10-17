@@ -1,0 +1,6 @@
+Clustering:
+1. Topics
+2. Words/Hashtags
+3. Sentiment - CLASSIFICATION
+4. Most tweets by users, then bag of words of these users
+5. Location
